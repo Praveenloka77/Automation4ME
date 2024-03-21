@@ -1,0 +1,12 @@
+Git credentials:
+praveenloka44@gmail.com/praveenloka44
+
+GitHub commands:
+
+1. git config --global user.name "Praveen"
+2. git config --global user.email "praveenloka44@gmail.com"
+3. git init
+4. git add *
+5. git status
+6. git remote add origin https://github.com/Praveenloka77/Automation4ME.git
+7. git remote push origin master

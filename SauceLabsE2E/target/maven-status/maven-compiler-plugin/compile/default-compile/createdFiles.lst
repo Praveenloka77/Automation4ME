@@ -1,0 +1,6 @@
+pageObjects\LoginPage.class
+pageObjects\InventoryPage.class
+pageObjects\CartPage.class
+pageObjects\CheckoutPage.class
+abstractComponents\ReusableComponents.class
+pageObjects\CompletionPage.class
